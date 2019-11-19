@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FajarSearchGithubUsers</string>
+    <string name="label_search_layout">Search Github users</string>
+    <string name="oops">Oops!</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="retry_btn">Retry</string>
+    <string name="limit_search">Sorry limit search, please try again on one minute.</string>
+    <string name="issue_internet_connection_try_again">Looks like there is an issue with internet connection, try again later</string>
+    <string name="empty_result_items">Not found user, please find the another user. Thank you</string>
+</resources>
